@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{787C58DB-E94E-6D6D-08C4-1D876CF875A1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Scripts/PrintMessage.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Scripts/PrintMessage.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstUnityScirpt" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PrintMessage.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="48d0d0e6-cb78-4264-a949-fccbc4496115" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

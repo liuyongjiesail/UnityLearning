@@ -1,0 +1,6 @@
+/Users/liuyongjie/Desktop/Unity/FirstConsoleApp/bin/Debug/FirstConsoleApp.exe
+/Users/liuyongjie/Desktop/Unity/FirstConsoleApp/bin/Debug/FirstConsoleApp.pdb
+/Users/liuyongjie/Desktop/Unity/FirstConsoleApp/obj/Debug/FirstConsoleApp.csproj.AssemblyReference.cache
+/Users/liuyongjie/Desktop/Unity/FirstConsoleApp/obj/Debug/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/liuyongjie/Desktop/Unity/FirstConsoleApp/obj/Debug/FirstConsoleApp.exe
+/Users/liuyongjie/Desktop/Unity/FirstConsoleApp/obj/Debug/FirstConsoleApp.pdb
